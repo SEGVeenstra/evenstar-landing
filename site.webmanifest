@@ -1,0 +1,11 @@
+{
+  "name": "Evenstar",
+  "short_name": "Evenstar",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "theme_color": "#f4f4f4",
+  "background_color": "#f4f4f4",
+  "display": "browser"
+}
